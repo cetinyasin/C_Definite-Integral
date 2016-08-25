@@ -6,7 +6,7 @@ int main()
 	float result,a,b,f_a,f_b,f_avg; // f_a --> f(a) || f_b --> f(b) || f_avg --> f((a+b)/2)
 	int degree;
  
- 	printf("The equation and integral boundaries of integral should be entered.");
+ 	printf("The equation and integral boundaries should be entered.");
  	printf("\nEnter the degree of the equation: "); scanf("%d",&degree);
 	int coeffs[degree];	
 	
